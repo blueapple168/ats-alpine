@@ -1,0 +1,9 @@
+    build-base
+    libexecinfo-dev
+    pcre-dev
+    libressl-dev
+    autoconf
+    automake
+    libtool
+    tcl-dev
+    linux-headers
